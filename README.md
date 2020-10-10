@@ -1,16 +1,16 @@
 # icfs.java.demo
 
-## run icfs.java.demon
+## Run icfs.java.demon
 
-### get icfs.jar and dependency
+### Get icfs.jar and dependency
 
 [java-icfs](http://icfs.baasze.com:5002/ipns/bafzm3jqbec7ulhfmm7s7ydt2mf32nbsjy4237mvzj5skzbkxrfxz7axghsyum/java-icfs)
 
-### import jar
+### Import jar
 
 copy `icfs.jar`、`cid.jar`、`multibase.jar`、`multiaddr.jar` and `multihash.jar` into libs
 
-### config gradle
+### Config gradle
 
 ```gradle
 dependencies {
@@ -23,7 +23,7 @@ dependencies {
 }
 ```
 
-### run
+### Run
 
 ```sh
 gradle run
