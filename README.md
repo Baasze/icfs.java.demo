@@ -1,22 +1,10 @@
 # icfs.java.demo
 
-run icfs.java.demon
+## run icfs.java.demon
 
-```sh
-gradle run
-```
-
-or run test
-
-```sh
-gradle test
-```
-
-## Get icfs.jar and dependency
+### get icfs.jar and dependency
 
 [java-icfs](http://icfs.baasze.com:5002/ipns/bafzm3jqbec7ulhfmm7s7ydt2mf32nbsjy4237mvzj5skzbkxrfxz7axghsyum/java-icfs)
-
-## Quick start
 
 ### import jar
 
@@ -34,6 +22,20 @@ dependencies {
     ...
 }
 ```
+
+### run
+
+```sh
+gradle run
+```
+
+or run test
+
+```sh
+gradle test
+```
+
+## Quick start
 
 ### Use
 
